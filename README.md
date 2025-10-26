@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arcane-Creator
-- You can find my games at arcane-creations.itch.io
+- You can find my games at arcanecreations.itch.io
 
 <!---
 Arcane-Creator/Arcane-Creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
